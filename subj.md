@@ -1,11 +1,10 @@
 # PreprocessSPECC
 # For Preprocessing SPECC Subjects on Skynet. Includes locate files and Multiband preprocessing
 #!/usr/bin/env bash
-#
 # Give me a subject id (speccID_Date)
 # and I'll give you rest preprocessed in a folder for that subject
 #  (outside of the MB folder, so MH can do his magic)
-#
+
 
 
 
